@@ -25,7 +25,7 @@
 
 `Python` `Scikit-Learn` `XGBoost` `ANN` `Streamlit` `Matplotlib` `Seaborn`
 
-**[View code ↗](https://github.com/Akash14-09/telco-customer-churn-prediction/tree/main)**
+**[View Repo ↗](https://github.com/Akash14-09/telco-customer-churn-prediction/tree/main)**
 
 ---
 
@@ -40,7 +40,7 @@
 
 `Python` `Pandas` `Scikit-Learn` `Streamlit` `TMDB API`
 
-**[View code ↗](https://github.com/Akash14-09/Movie_Recommender_System)**
+**[View Repo ↗](https://github.com/Akash14-09/Movie_Recommender_System)**
 
 ## Technical skills
 
