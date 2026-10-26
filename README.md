@@ -2,21 +2,19 @@
 
 ![Akash Dwivedi — Machine Learning · Data Analysis · Python](assets/header.svg)
 
-**Electrical Engineering undergraduate at BIET Jhansi · Building machine learning applications**
+**Python · Machine Learning · Deep Learning · Data Analysis**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square)](https://www.linkedin.com/in/akash-dwivedi-83584b313/)
-[![Email](https://img.shields.io/badge/Email-Let%27s_talk-334155?style=flat-square)](mailto:akashdwivedi1409@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact-334155?style=flat-square)](mailto:akashdwivedi1409@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Akash14--09-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Akash14-09)
 
-[Projects](#featured-projects) · [About](#about-me) · [Skills](#technical-skills) · [Problem solving](#problem-solving)
+[Projects](#featured-projects) · [Skills](#technical-skills) · [Problem solving](#problem-solving)
 
 </div>
 
 ## Featured projects
 
 ### 01 / Customer Churn Prediction System
-
-**Predicting customer attrition with machine learning and an interactive dashboard.**
 
 | Dataset | Validation | Performance |
 | :--- | :--- | :--- |
@@ -27,23 +25,11 @@
 
 `Python` `Scikit-Learn` `XGBoost` `ANN` `Streamlit` `Matplotlib` `Seaborn`
 
-**[Explore the repository ↗](https://github.com/Akash14-09/telco-customer-churn-prediction/tree/main)**
-
-<details>
-<summary><strong>What this project demonstrates</strong></summary>
-
-- Feature engineering for customer data.
-- Comparison of linear, tree-based, boosting, and neural network models.
-- Stratified cross-validation and ROC-AUC evaluation.
-- Communicating predictions through an interactive dashboard.
-
-</details>
+**[View code ↗](https://github.com/Akash14-09/telco-customer-churn-prediction/tree/main)**
 
 ---
 
 ### 02 / Movie Recommender System
-
-**Finding similar movies through content-based recommendations.**
 
 | Dataset | Method | Output |
 | :--- | :--- | :--- |
@@ -54,23 +40,7 @@
 
 `Python` `Pandas` `Scikit-Learn` `Streamlit` `TMDB API`
 
-**[Explore the repository ↗](https://github.com/Akash14-09/Movie_Recommender_System)**
-
-<details>
-<summary><strong>How the recommendations work</strong></summary>
-
-1. Represent movie content as numerical features using CountVectorizer.
-2. Compare movies using cosine similarity.
-3. Return the top 5 recommendations for the selected movie.
-4. Fetch official posters through the TMDB API and display the results in Streamlit.
-
-</details>
-
-## About me
-
-I'm **Akash Dwivedi**, a B.Tech student in **Electrical Engineering** at **Bundelkhand Institute of Engineering and Technology, Jhansi (2024–2028)**.
-
-My work focuses on data preprocessing, feature engineering, model evaluation, and turning machine learning models into usable applications. I also practice data structures, algorithms, and competitive programming.
+**[View code ↗](https://github.com/Akash14-09/Movie_Recommender_System)**
 
 ## Technical skills
 
@@ -106,6 +76,6 @@ My work focuses on data preprocessing, feature engineering, model evaluation, an
 
 <div align="center">
 
-**Connect with me** · [LinkedIn](https://www.linkedin.com/in/akash-dwivedi-83584b313/) · [Email](mailto:akashdwivedi1409@gmail.com)
+**Contact** · [LinkedIn](https://www.linkedin.com/in/akash-dwivedi-83584b313/) · [Email](mailto:akashdwivedi1409@gmail.com)
 
 </div>
