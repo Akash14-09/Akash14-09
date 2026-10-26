@@ -1,14 +1,14 @@
 <div align="center">
 
-![Akash Dwivedi — Machine Learning · Data Analysis · Python](assets/header.svg)
+# Akash Dwivedi
 
-**Python · Machine Learning · Deep Learning · Data Analysis**
+**Machine Learning · Deep Learning · Competitive Programming**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square)](https://www.linkedin.com/in/akash-dwivedi-83584b313/)
-[![Email](https://img.shields.io/badge/Email-Contact-334155?style=flat-square)](mailto:akashdwivedi1409@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Akash14--09-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Akash14-09)
+`C++` `Python` `Scikit-Learn` `TensorFlow` `Keras` `SQL`
 
-[Projects](#featured-projects) · [Skills](#technical-skills) · [Problem solving](#problem-solving)
+[LinkedIn](https://www.linkedin.com/in/akash-dwivedi-83584b313/) · [Email](mailto:akashdwivedi1409@gmail.com) · [Codeforces](https://codeforces.com/profile/akashdwivedi1409) · [LeetCode](https://leetcode.com/u/AkashDwivedi1409/)
+
+[Projects](#featured-projects) · [Skills](#technical-skills) · [Competitive Programming](#competitive-programming) · [GitHub Activity](#github-activity)
 
 </div>
 
@@ -77,5 +77,17 @@
 <div align="center">
 
 **Contact** · [LinkedIn](https://www.linkedin.com/in/akash-dwivedi-83584b313/) · [Email](mailto:akashdwivedi1409@gmail.com)
+
+</div>
+
+## GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Akash14-09&show_icons=true&hide_rank=true&theme=github_dark&hide_border=true" alt="Akash's GitHub statistics" width="480" />
+
+<img src="https://streak-stats.demolab.com/?user=Akash14-09&theme=github-dark-blue&hide_border=true" alt="Akash's GitHub contribution streak" width="480" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akash14-09&layout=compact&theme=github_dark&hide_border=true" alt="Most-used languages in Akash's repositories" width="400" />
 
 </div>
