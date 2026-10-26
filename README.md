@@ -25,7 +25,7 @@
 
 `Python` `Scikit-Learn` `XGBoost` `ANN` `Streamlit` `Matplotlib` `Seaborn`
 
-[![View Repo](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Akash14-09/telco-customer-churn-prediction/tree/main)
+[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Akash14-09/telco-customer-churn-prediction/tree/main)
 [![Live Demo](https://img.shields.io/badge/Live_Demo-15803D?style=for-the-badge&logo=streamlit&logoColor=white)](https://telco-customer-churn-prediction-nqzpem44mzr3uqyosqfcpt.streamlit.app/)
 
 ---
@@ -41,7 +41,7 @@
 
 `Python` `Pandas` `Scikit-Learn` `Streamlit` `TMDB API`
 
-[![View Repo](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Akash14-09/Movie_Recommender_System)
+[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Akash14-09/Movie_Recommender_System)
 [![Live Demo](https://img.shields.io/badge/Live_Demo-15803D?style=for-the-badge&logo=streamlit&logoColor=white)](https://movierecommendersystem-kqrsomm2wee9x52amtt477.streamlit.app/)
 
 ## Technical skills
