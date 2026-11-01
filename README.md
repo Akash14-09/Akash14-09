@@ -1,5 +1,3 @@
-<div align="center">
-
 # Akash Dwivedi
 
 **Machine Learning · Deep Learning · Competitive Programming**
@@ -8,67 +6,67 @@
 
 [LinkedIn](https://www.linkedin.com/in/akash-dwivedi-83584b313/) · [Email](mailto:akashdwivedi1409@gmail.com) · [Codeforces](https://codeforces.com/profile/akashdwivedi1409) · [LeetCode](https://leetcode.com/u/AkashDwivedi1409/)
 
-[Projects](#featured-projects) · [Skills](#technical-skills) · [Competitive Programming](#competitive-programming) · [GitHub Activity](#github-activity)
-
-</div>
-
-## Featured projects
-
-### 01 / Customer Churn Prediction System
-
-| Dataset | Validation | Performance |
-| :--- | :--- | :--- |
-| **7,000+** customer records | **5-fold** stratified cross-validation | **0.84+ ROC-AUC** |
-
-- Engineered features and trained Logistic Regression, Random Forest, XGBoost, and Artificial Neural Network models.
-- Developed a Streamlit dashboard to visualize ROC curves, confusion matrices, and customer attrition probabilities with Matplotlib and Seaborn.
-
-`Python` `Scikit-Learn` `XGBoost` `ANN` `Streamlit` `Matplotlib` `Seaborn`
-
-[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Akash14-09/telco-customer-churn-prediction/tree/main)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-15803D?style=for-the-badge&logo=streamlit&logoColor=white)](https://telco-customer-churn-prediction-nqzpem44mzr3uqyosqfcpt.streamlit.app/)
-
 ---
 
-### 02 / Movie Recommender System
+## Featured Projects
 
-| Dataset | Method | Output |
-| :--- | :--- | :--- |
-| **4,800+** TMDB movies | CountVectorizer + cosine similarity | **Top 5** movies with official posters |
+### 01. Upsolve Tracker – Competitive Programming
 
-- Built a content-based recommendation engine using Python, Pandas, and Scikit-Learn.
-- Developed a Streamlit web application integrated with the TMDB REST API to fetch and display movie recommendations and posters.
+A lightweight web dashboard and Chrome extension to track contest problems across Codeforces, LeetCode and CodeChef.
+
+- One-click problem tracking directly from supported problem pages.
+- Automatically provides topic-wise learning resources from CP-Algorithms and USACO Guide.
+- Organizes pending and recently solved problems.
+- Supports light and dark themes.
+
+`JavaScript` `Chrome Extension` `HTML` `CSS`
+
+[Repository](https://github.com/Akash14-09/Upsolve_Tracker) · [Live Demo](https://dancing-chaja-aa858b.netlify.app/)
+
+### 02. Customer Churn Prediction System
+
+An end-to-end ML application to predict customer attrition using multiple classification models.
+
+- Worked with 7,000+ customer records and 5-fold stratified cross-validation.
+- Experimented with Logistic Regression, Random Forest, XGBoost and ANN.
+- Achieved 0.84+ ROC-AUC.
+- Built an interactive Streamlit dashboard for model evaluation and predictions.
+
+`Python` `Scikit-Learn` `XGBoost` `TensorFlow` `Streamlit`
+
+[Repository](https://github.com/Akash14-09/telco-customer-churn-prediction/tree/main) · [Live Demo](https://telco-customer-churn-prediction-nqzpem44mzr3uqyosqfcpt.streamlit.app/)
+
+### 03. Movie Recommender System
+
+A content-based movie recommendation application using movie metadata and similarity scores.
+
+- Processed 4,800+ movies from the TMDB dataset.
+- Implemented CountVectorizer and cosine similarity.
+- Integrated the TMDB API to display movie recommendations and posters.
 
 `Python` `Pandas` `Scikit-Learn` `Streamlit` `TMDB API`
 
-[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Akash14-09/Movie_Recommender_System)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-15803D?style=for-the-badge&logo=streamlit&logoColor=white)](https://movierecommendersystem-kqrsomm2wee9x52amtt477.streamlit.app/)
+[Repository](https://github.com/Akash14-09/Movie_Recommender_System) · [Live Demo](https://movierecommendersystem-kqrsomm2wee9x52amtt477.streamlit.app/)
 
-## Technical skills
+---
 
-| Area | Tools and concepts |
+## Technical Skills
+
+| Category | Technologies |
 | :--- | :--- |
-| **Programming & databases** | Python, C++, C, MySQL |
-| **Data analysis** | NumPy, Pandas, Matplotlib, Seaborn |
-| **Machine learning** | Scikit-Learn, XGBoost, regression, classification, ensemble methods, clustering |
-| **Model development** | Data preprocessing, EDA, feature engineering, cross-validation, hyperparameter tuning, regularization, evaluation |
-| **Deep learning** | TensorFlow, Keras, artificial neural networks |
-| **Applications & tools** | Streamlit, Git, GitHub, Jupyter Notebook, Google Colab, VS Code |
+| **Languages** | C++, Python, C, SQL |
+| **Data Science** | NumPy, Pandas, Matplotlib, Seaborn |
+| **Machine Learning** | Scikit-Learn, XGBoost, Regression, Classification, Clustering, Ensemble Learning |
+| **Deep Learning** | TensorFlow, Keras, ANN, CNN, RNN, LSTM |
+| **Tools** | Git, GitHub, Streamlit, Jupyter Notebook, Google Colab |
 
-<details>
-<summary><strong>More foundations and algorithms</strong></summary>
+---
 
-**Algorithms:** Linear and Logistic Regression, SVM, KNN, Naive Bayes, Decision Trees, Random Forest, AdaBoost, Gradient Boosting, XGBoost, PCA, K-Means, DBSCAN.
+## Competitive Programming
 
-**Deep learning foundations:** CNNs, RNNs, LSTMs, GRUs, transfer learning, data augmentation, backpropagation, activation and loss functions, optimizers, dropout, batch normalization, early stopping.
+**1,300+ problems solved · 140+ contests participated**
 
-**Mathematics:** Linear algebra, calculus, probability, statistics.
-
-</details>
-
-## Problem solving
-
-**1,200+ problems solved** across Codeforces, CodeChef, and LeetCode · **120+ competitive programming contests**
+Active problem-solving across Codeforces, CodeChef and LeetCode.
 
 [![Codeforces](https://img.shields.io/badge/Codeforces-Profile-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/akashdwivedi1409)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/AkashDwivedi1409/)
@@ -76,20 +74,18 @@
 
 ---
 
-<div align="center">
+## Connect
 
-**Contact** · [LinkedIn](https://www.linkedin.com/in/akash-dwivedi-83584b313/) · [Email](mailto:akashdwivedi1409@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/akash-dwivedi-83584b313/) · [Email](mailto:akashdwivedi1409@gmail.com)
 
-</div>
+---
 
 ## GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Akash14-09&show_icons=true&hide_rank=true&theme=github_dark&hide_border=true" alt="Akash's GitHub statistics" width="480" />
+<img src="https://github-readme-stats.vercel.app/api?username=Akash14-09&show_icons=true&hide_rank=true&theme=github_dark&hide_border=true" alt="GitHub Statistics" width="480" />
 
-<img src="https://streak-stats.demolab.com/?user=Akash14-09&theme=github-dark-blue&hide_border=true" alt="Akash's GitHub contribution streak" width="480" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akash14-09&layout=compact&theme=github_dark&hide_border=true" alt="Most-used languages in Akash's repositories" width="400" />
+<img src="https://streak-stats.demolab.com/?user=Akash14-09&theme=github-dark-blue&hide_border=true" alt="GitHub Contribution Streak" width="480" />
 
 </div>
